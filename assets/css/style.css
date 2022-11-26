@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(27, 27, 27);
+}
+
+.header {
+    height: 10em;
+    padding: 5em;
+    font-size: 1em;
+    background-image: url(../imgs/header.png);
+    background-size: 75%;
+    background-position: center;
+
+}
+
+.header h1 {
+    text-align: left;
+    color: aqua;
+    margin: 0%;
+    padding-top: 5em;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.products {
+
+
+    width: 100%;
+    margin: auto;
+    background-color: white;
+
+}
+
+.products td {
+    color: black ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2em;
+    text-align: center;
+
+}
+
+.footer {
+    height: 3em;
+    line-height: 3em;
+    background-color: rgb(105, 219, 248);
+    color: white;
+    text-align: center;
+    font-weight: 900;
+}
